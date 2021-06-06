@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Project_replica/static/css/main.541fee59.chunk.css",
+    "main.js": "/Project_replica/static/js/main.e9f05eaa.chunk.js",
+    "main.js.map": "/Project_replica/static/js/main.e9f05eaa.chunk.js.map",
+    "runtime-main.js": "/Project_replica/static/js/runtime-main.dea467d2.js",
+    "runtime-main.js.map": "/Project_replica/static/js/runtime-main.dea467d2.js.map",
+    "static/js/2.4d4d12e7.chunk.js": "/Project_replica/static/js/2.4d4d12e7.chunk.js",
+    "static/js/2.4d4d12e7.chunk.js.map": "/Project_replica/static/js/2.4d4d12e7.chunk.js.map",
+    "index.html": "/Project_replica/index.html",
+    "static/css/main.541fee59.chunk.css.map": "/Project_replica/static/css/main.541fee59.chunk.css.map",
+    "static/js/2.4d4d12e7.chunk.js.LICENSE.txt": "/Project_replica/static/js/2.4d4d12e7.chunk.js.LICENSE.txt",
+    "static/media/brilliant.9f3848fd.jpg": "/Project_replica/static/media/brilliant.9f3848fd.jpg",
+    "static/media/image2.a9ebe710.PNG": "/Project_replica/static/media/image2.a9ebe710.PNG",
+    "static/media/image3.f0bd062d.PNG": "/Project_replica/static/media/image3.f0bd062d.PNG",
+    "static/media/rocket.44a09688.gif": "/Project_replica/static/media/rocket.44a09688.gif",
+    "static/media/s3.588fb36f.PNG": "/Project_replica/static/media/s3.588fb36f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea467d2.js",
+    "static/js/2.4d4d12e7.chunk.js",
+    "static/css/main.541fee59.chunk.css",
+    "static/js/main.e9f05eaa.chunk.js"
+  ]
+}
