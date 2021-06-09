@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Project_replica/static/css/main.31957bd0.chunk.css",
-    "main.js": "/Project_replica/static/js/main.5fa7fa87.chunk.js",
-    "main.js.map": "/Project_replica/static/js/main.5fa7fa87.chunk.js.map",
+    "main.css": "/Project_replica/static/css/main.1aeb2589.chunk.css",
+    "main.js": "/Project_replica/static/js/main.23055cd7.chunk.js",
+    "main.js.map": "/Project_replica/static/js/main.23055cd7.chunk.js.map",
     "runtime-main.js": "/Project_replica/static/js/runtime-main.dea467d2.js",
     "runtime-main.js.map": "/Project_replica/static/js/runtime-main.dea467d2.js.map",
     "static/js/2.4d4d12e7.chunk.js": "/Project_replica/static/js/2.4d4d12e7.chunk.js",
     "static/js/2.4d4d12e7.chunk.js.map": "/Project_replica/static/js/2.4d4d12e7.chunk.js.map",
     "index.html": "/Project_replica/index.html",
-    "static/css/main.31957bd0.chunk.css.map": "/Project_replica/static/css/main.31957bd0.chunk.css.map",
+    "static/css/main.1aeb2589.chunk.css.map": "/Project_replica/static/css/main.1aeb2589.chunk.css.map",
     "static/js/2.4d4d12e7.chunk.js.LICENSE.txt": "/Project_replica/static/js/2.4d4d12e7.chunk.js.LICENSE.txt",
     "static/media/brilliant.9f3848fd.jpg": "/Project_replica/static/media/brilliant.9f3848fd.jpg",
     "static/media/image2.a9ebe710.PNG": "/Project_replica/static/media/image2.a9ebe710.PNG",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.dea467d2.js",
     "static/js/2.4d4d12e7.chunk.js",
-    "static/css/main.31957bd0.chunk.css",
-    "static/js/main.5fa7fa87.chunk.js"
+    "static/css/main.1aeb2589.chunk.css",
+    "static/js/main.23055cd7.chunk.js"
   ]
 }
