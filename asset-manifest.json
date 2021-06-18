@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/Project_replica/static/css/main.1aeb2589.chunk.css",
-    "main.js": "/Project_replica/static/js/main.23055cd7.chunk.js",
-    "main.js.map": "/Project_replica/static/js/main.23055cd7.chunk.js.map",
-    "runtime-main.js": "/Project_replica/static/js/runtime-main.dea467d2.js",
-    "runtime-main.js.map": "/Project_replica/static/js/runtime-main.dea467d2.js.map",
-    "static/js/2.4d4d12e7.chunk.js": "/Project_replica/static/js/2.4d4d12e7.chunk.js",
-    "static/js/2.4d4d12e7.chunk.js.map": "/Project_replica/static/js/2.4d4d12e7.chunk.js.map",
-    "index.html": "/Project_replica/index.html",
-    "static/css/main.1aeb2589.chunk.css.map": "/Project_replica/static/css/main.1aeb2589.chunk.css.map",
-    "static/js/2.4d4d12e7.chunk.js.LICENSE.txt": "/Project_replica/static/js/2.4d4d12e7.chunk.js.LICENSE.txt",
-    "static/media/brilliant.9f3848fd.jpg": "/Project_replica/static/media/brilliant.9f3848fd.jpg",
-    "static/media/image2.a9ebe710.PNG": "/Project_replica/static/media/image2.a9ebe710.PNG",
-    "static/media/image3.f0bd062d.PNG": "/Project_replica/static/media/image3.f0bd062d.PNG",
-    "static/media/rocket.44a09688.gif": "/Project_replica/static/media/rocket.44a09688.gif",
-    "static/media/s3.588fb36f.PNG": "/Project_replica/static/media/s3.588fb36f.PNG"
+    "main.css": "/hdyaro88/Project_replica/static/css/main.c7865494.chunk.css",
+    "main.js": "/hdyaro88/Project_replica/static/js/main.599e10b6.chunk.js",
+    "main.js.map": "/hdyaro88/Project_replica/static/js/main.599e10b6.chunk.js.map",
+    "runtime-main.js": "/hdyaro88/Project_replica/static/js/runtime-main.516a7896.js",
+    "runtime-main.js.map": "/hdyaro88/Project_replica/static/js/runtime-main.516a7896.js.map",
+    "static/js/2.645612a7.chunk.js": "/hdyaro88/Project_replica/static/js/2.645612a7.chunk.js",
+    "static/js/2.645612a7.chunk.js.map": "/hdyaro88/Project_replica/static/js/2.645612a7.chunk.js.map",
+    "index.html": "/hdyaro88/Project_replica/index.html",
+    "static/css/main.c7865494.chunk.css.map": "/hdyaro88/Project_replica/static/css/main.c7865494.chunk.css.map",
+    "static/js/2.645612a7.chunk.js.LICENSE.txt": "/hdyaro88/Project_replica/static/js/2.645612a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dea467d2.js",
-    "static/js/2.4d4d12e7.chunk.js",
-    "static/css/main.1aeb2589.chunk.css",
-    "static/js/main.23055cd7.chunk.js"
+    "static/js/runtime-main.516a7896.js",
+    "static/js/2.645612a7.chunk.js",
+    "static/css/main.c7865494.chunk.css",
+    "static/js/main.599e10b6.chunk.js"
   ]
 }
