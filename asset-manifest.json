@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "/Project_replica/static/css/main.c7865494.chunk.css",
-    "main.js": "/Project_replica/static/js/main.814291bf.chunk.js",
-    "main.js.map": "/Project_replica/static/js/main.814291bf.chunk.js.map",
-    "runtime-main.js": "/Project_replica/static/js/runtime-main.20dd62ea.js",
-    "runtime-main.js.map": "/Project_replica/static/js/runtime-main.20dd62ea.js.map",
-    "static/js/2.f3ebdb7d.chunk.js": "/Project_replica/static/js/2.f3ebdb7d.chunk.js",
-    "static/js/2.f3ebdb7d.chunk.js.map": "/Project_replica/static/js/2.f3ebdb7d.chunk.js.map",
+    "main.css": "/Project_replica/static/css/main.52c68a0c.chunk.css",
+    "main.js": "/Project_replica/static/js/main.2257bfca.chunk.js",
+    "main.js.map": "/Project_replica/static/js/main.2257bfca.chunk.js.map",
+    "runtime-main.js": "/Project_replica/static/js/runtime-main.048857db.js",
+    "runtime-main.js.map": "/Project_replica/static/js/runtime-main.048857db.js.map",
+    "static/js/2.9c0c6f2e.chunk.js": "/Project_replica/static/js/2.9c0c6f2e.chunk.js",
+    "static/js/2.9c0c6f2e.chunk.js.map": "/Project_replica/static/js/2.9c0c6f2e.chunk.js.map",
+    "static/css/3.67e2190b.chunk.css": "/Project_replica/static/css/3.67e2190b.chunk.css",
+    "static/js/3.2e8d785d.chunk.js": "/Project_replica/static/js/3.2e8d785d.chunk.js",
+    "static/js/3.2e8d785d.chunk.js.map": "/Project_replica/static/js/3.2e8d785d.chunk.js.map",
+    "static/css/4.685d094f.chunk.css": "/Project_replica/static/css/4.685d094f.chunk.css",
+    "static/js/4.5088b13a.chunk.js": "/Project_replica/static/js/4.5088b13a.chunk.js",
+    "static/js/4.5088b13a.chunk.js.map": "/Project_replica/static/js/4.5088b13a.chunk.js.map",
+    "static/css/5.37101c01.chunk.css": "/Project_replica/static/css/5.37101c01.chunk.css",
+    "static/js/5.81967062.chunk.js": "/Project_replica/static/js/5.81967062.chunk.js",
+    "static/js/5.81967062.chunk.js.map": "/Project_replica/static/js/5.81967062.chunk.js.map",
+    "static/js/6.98a664da.chunk.js": "/Project_replica/static/js/6.98a664da.chunk.js",
+    "static/js/6.98a664da.chunk.js.map": "/Project_replica/static/js/6.98a664da.chunk.js.map",
+    "static/css/7.d8bd089d.chunk.css": "/Project_replica/static/css/7.d8bd089d.chunk.css",
+    "static/js/7.f89a4239.chunk.js": "/Project_replica/static/js/7.f89a4239.chunk.js",
+    "static/js/7.f89a4239.chunk.js.map": "/Project_replica/static/js/7.f89a4239.chunk.js.map",
     "index.html": "/Project_replica/index.html",
-    "static/css/main.c7865494.chunk.css.map": "/Project_replica/static/css/main.c7865494.chunk.css.map",
-    "static/js/2.f3ebdb7d.chunk.js.LICENSE.txt": "/Project_replica/static/js/2.f3ebdb7d.chunk.js.LICENSE.txt"
+    "static/css/3.67e2190b.chunk.css.map": "/Project_replica/static/css/3.67e2190b.chunk.css.map",
+    "static/css/4.685d094f.chunk.css.map": "/Project_replica/static/css/4.685d094f.chunk.css.map",
+    "static/css/5.37101c01.chunk.css.map": "/Project_replica/static/css/5.37101c01.chunk.css.map",
+    "static/css/7.d8bd089d.chunk.css.map": "/Project_replica/static/css/7.d8bd089d.chunk.css.map",
+    "static/css/main.52c68a0c.chunk.css.map": "/Project_replica/static/css/main.52c68a0c.chunk.css.map",
+    "static/js/2.9c0c6f2e.chunk.js.LICENSE.txt": "/Project_replica/static/js/2.9c0c6f2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.20dd62ea.js",
-    "static/js/2.f3ebdb7d.chunk.js",
-    "static/css/main.c7865494.chunk.css",
-    "static/js/main.814291bf.chunk.js"
+    "static/js/runtime-main.048857db.js",
+    "static/js/2.9c0c6f2e.chunk.js",
+    "static/css/main.52c68a0c.chunk.css",
+    "static/js/main.2257bfca.chunk.js"
   ]
 }
