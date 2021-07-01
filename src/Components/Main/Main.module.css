@@ -1,0 +1,120 @@
+
+.flex_container {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  min-height: 80vh;
+  align-items: center;
+}
+.course_info {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-around;
+  word-spacing: 2px;
+  text-justify: auto;
+  letter-spacing: 1px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.course_info2 {
+  padding: 2vw;
+  width: 35%;
+  height: 100%;
+  border: 2px solid rgb(197, 197, 197);
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  border: 2px solid black;
+}
+
+.st_course_btn {
+  display: block;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 7vh;
+  margin: auto;
+  border-radius: 4px;
+  border-style: none;
+  cursor: pointer;
+}
+.info2_img {
+  width: 100%;
+  display: block;
+  text-align: center;
+ 
+}
+.info2_img img {
+  width: 70%;
+  height: 100%;
+
+}
+.info2_text {
+  display: block;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  font-size: 0.7rem;
+}
+.st_course_btn:hover {
+  background-color: rgb(70, 70, 70);
+}
+.readmore {
+  background-color: transparent;
+  border-style: none;
+  font-size: medium;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.topic_section {
+  width: 100%;
+  margin: auto;
+}
+.topic_list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  /* border: 2px solid black; */
+  justify-content: flex-start;
+  align-content: space-around;
+}
+.topic_list li {
+  /* border: 2px solid green; */
+  font-size: small;
+  height: auto;
+  width: 40%;
+  display: block;
+  float: left;
+  text-align: start;
+}
+@media (max-width : 520px) {
+     .course_info {
+       width: 100%;
+       text-align:center;
+     }
+     .course_info2 {
+       width: 100%;
+     }
+     .flex_container {
+       flex-wrap: wrap-reverse;
+     }
+     .info2_text {
+       flex-wrap: wrap;
+       text-align: center;
+     }
+     .topic_list {
+       width: 100%;
+       margin-left: 0;
+     }
+}
+/* @media (max-width : 768px) {
+  .course_info2 {
+
+  }
+} */

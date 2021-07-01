@@ -1,0 +1,81 @@
+.access_flex {
+  display: flex;
+  justify-content: stretch;
+  flex-wrap: nowrap;
+  height: 90%;
+  width: 100%;
+}
+.rocket {
+  height: 100%;
+  width: 50%;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rocket_img {
+  width: 200px;
+  height: 300px;
+  display: block;
+}
+.access_form {
+  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 50%;
+  background-color: white;
+}
+.btn_div {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.access_button {
+  width: 100%;
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.access_button button {
+  margin: 10px;
+  display: block;
+  height: 7vh;
+  width: 25vw;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.fb_btn {
+  background-color: rgb(52, 78, 150);
+  color: white;
+  border-style: none;
+}
+.gg_btn {
+  background-color: rgb(255, 254, 255);
+  color: grey;
+  border: 1px solid grey;
+  font-weight: 10px;
+  font-style: bold;
+}
+.email_btn {
+  border-style: none;
+  background-color: rgb(233, 232, 232);
+  color: black;
+}
+@media (max-width : 648px) {
+   .access_form {
+     margin: 0;
+     width: 100%;
+   }
+   .rocket {
+     display: none;
+   }
+   .access_button button {
+     width: 100%;
+   }
+}

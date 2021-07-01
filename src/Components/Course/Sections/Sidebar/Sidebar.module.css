@@ -1,0 +1,42 @@
+.sidebar {
+  height: 100%;
+  position: fixed;
+  width: 20%;
+  background-color: black;
+  margin-top: -5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sidebar ul {
+  height: 80%;
+}
+.sidebar li a {
+  text-decoration: none;
+}
+.sidebar li {
+  font-size: large;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  display: block;
+  color: gray;
+  cursor: pointer;
+}
+.sidebar li:hover {
+  color: white;
+}
+
+@media (max-width : 480px) {
+  .sidebar li {
+    font-size: small;
+    float: right;
+  }
+  .sidebar li a {
+    text-align: start;
+  }
+  .sidebar ul {
+    width: 30%;
+    text-align: start;
+  }
+} 
+

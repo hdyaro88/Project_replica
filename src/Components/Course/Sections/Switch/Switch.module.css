@@ -1,0 +1,35 @@
+.switch {
+  height: 100%;
+  border-left: 1px solid grey;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.slider_bar {
+  margin-top: 5rem;
+  margin-left: 2vw;
+  display: flex;
+  justify-content: center;
+  display: block;
+  font-size: medium;
+  text-align: center;
+}
+@media (max-width : 768px) {
+    .slider_bar {
+      margin: 0;
+      width: 100%;
+      text-align: center;
+      flex-wrap: nowrap;
+    }
+    .switch {
+      border:none;
+      width: 100%;
+      align-items: flex-end;
+      margin-top: 2rem;
+      height: 15%;
+    }
+    .slider_bar h2 {
+      font-size: small;
+    }
+}

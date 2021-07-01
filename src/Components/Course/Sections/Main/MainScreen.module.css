@@ -1,0 +1,45 @@
+.mainscreen {
+  position: absolute;
+  height: 1000px;
+  width: 80%;
+  margin-left: 20%;
+  margin-top: -5rem;
+  display: grid;
+  grid-template-columns: 60% 40%;
+  background-color: white;
+}
+.content_section {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+.switch_section {
+  background-color: white;
+  height: 100%;
+}
+@media (max-width : 768px) {
+  .content_section {
+    text-align: center;
+  }
+  .switch_section {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+    align-content: flex-end;
+    margin-bottom: 2rem;
+  }
+  .content_section {
+    margin: 0;
+    padding: 10px;
+    height: 500px;
+  }
+  .mainscreen {
+    margin-top: 2rem;
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap-reverse;
+  }
+}
+
+
